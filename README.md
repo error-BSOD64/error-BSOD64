@@ -1,4 +1,5 @@
-Hi! I am error-BSOD64 a.k.a. GodDuck. (On Discord)
+Hi! I am error-BSOD64 a.k.a. GodDuck.
+
 A begginer developer whose main focus is on "repetitive task automation" and 
 providing solutions for software managmement automation. (Ties in loosely, but it's diffetrent)
 I always had an interest in Electronics, but never had the oppurtunity, so
